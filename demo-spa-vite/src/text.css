@@ -1,0 +1,22 @@
+/* decided to have fun with the Demo Spa Text */
+.gradient-text {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: red;
+  background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.header {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
