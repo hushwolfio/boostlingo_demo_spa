@@ -1,0 +1,12 @@
+.spacer {
+  flex: 1 1 auto;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 2 * 64px);
+}
+.footer {
+  text-align: center;
+}
